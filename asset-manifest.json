@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TimeZone/static/css/main.5823abd4.css",
-    "main.js": "/TimeZone/static/js/main.54a99725.js",
+    "main.js": "/TimeZone/static/js/main.d53c08be.js",
     "static/media/s1.png": "/TimeZone/static/media/s1.4a8dee3ef1e2b2277b6e.png",
     "static/media/s3.webp": "/TimeZone/static/media/s3.35508a1cf524a7cc0ae8.webp",
     "static/media/t1.png": "/TimeZone/static/media/t1.e1049dd3a1a52483bbef.png",
@@ -9,10 +9,10 @@
     "index.html": "/TimeZone/index.html",
     "static/media/logo.webp": "/TimeZone/static/media/logo.8f48f524aecf8f49f6b1.webp",
     "main.5823abd4.css.map": "/TimeZone/static/css/main.5823abd4.css.map",
-    "main.54a99725.js.map": "/TimeZone/static/js/main.54a99725.js.map"
+    "main.d53c08be.js.map": "/TimeZone/static/js/main.d53c08be.js.map"
   },
   "entrypoints": [
     "static/css/main.5823abd4.css",
-    "static/js/main.54a99725.js"
+    "static/js/main.d53c08be.js"
   ]
 }
